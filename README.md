@@ -21,6 +21,7 @@ Hardware: Familiarity with hardware components and experience with building proj
 
 Third place in BVSD science fair for computer science in 2022 for designing an automated fish tank light using an Arduino
 Received Colorado Water and Soil Conservation Award in 2023 for creating a circuit that can use solar, triboelectric, and hydroelectric power to charge a lithium ion battery for USB
+2nd place in Colorado for ECybermission for the project listed above
 
 ### Personal Projects:
 
